@@ -1,9 +1,10 @@
 Intructions:
 
 1. Please download the MeioMap.py, PhasingFunction.py and input_data files to your computer. Create a directory and keep these files together here.
- -> MeiMap.py is the main program
- -> PhasingFunction.py contains the functions to run the main program
- -> input_data text file contains raw data to be loaded
+
+-> MeiMap.py is the main program<br/>
+-> PhasingFunction.py contains the functions to run the main program<br/>
+-> input_data text file contains raw data to be loaded
 
 2. Open MeioMap.py, PhasingFunction.py in Spyder or in your own environment.
 
