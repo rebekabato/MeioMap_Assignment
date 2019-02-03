@@ -1,6 +1,6 @@
 Intructions:
 
-1. Please download the MeioMap.py, PhasingFunction.py and input_data_trios.txt files to your computer. Create a directory and keep these files together here.
+1. Please download the MeioMap.py, PhasingFunction.py and input_data_trios.txt files to your computer. Create a directory and keep these files together there.
 
 -> MeiMap.py is the main program<br/>
 -> PhasingFunction.py contains the functions to run the main program<br/>
